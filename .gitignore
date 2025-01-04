@@ -1,3 +1,5 @@
 chroma_*
 chroma
 .DS_Store
+
+.env
