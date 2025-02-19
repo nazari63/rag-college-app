@@ -14,3 +14,4 @@ python create_database.py
 python query_data.py "Can you explain recursion"
 ```
 
+This project is a demonstration of blockchain technology and smart contract integration.
